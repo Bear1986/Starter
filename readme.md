@@ -1,0 +1,1 @@
+This is me just understanding two way data binding in vue as I didn't understand this concept fulling in an update I had to do for an element in Vue
